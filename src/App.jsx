@@ -3,14 +3,13 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+import MapView from './components/MapView'
+import 'leaflet/dist/leaflet.css'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-      <h1>map</h1>
-        
-    </>
+   <MapView />
   )
 }
 
