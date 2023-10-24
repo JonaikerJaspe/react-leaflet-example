@@ -1,10 +1,10 @@
 {
     "places": [
         {
-            "name": "Rummels Bucht",
+            "name": "Aparcamiento",
             "geometry": [
-                52.500772,
-                13.472764
+                9.893808,
+                -67.3856814
             ]
         },
         {
@@ -18,32 +18,31 @@
             
             "name": "SEZ Berlin",
             "geometry": [
-                52.527025,
-                13.446139
+                9.8938767,
+                -67.3857565
             ]
         },
         {
             
-            "name": "Huxley's Neue Welt",
+            "name": "Calle Santa Rosa",
             "geometry": [
-                52.486319,
-                13.421437
+                9.903876, 
+                -67.369466
             ]
         },
         {
             
-            "name": "Mensch Meier",
+            "name": "Urb. Tropical",
             "geometry": [
-                52.535069,
-                13.452312
+                9.919185,
+                -67.360503
             ]
         },
         {
            
-            "name": "Zur Klappe",
+            "name": "Calle Junin",
             "geometry": [
-                52.493039,
-                13.387248
+                9.906292, -67.369022
             ]
         },
         {
