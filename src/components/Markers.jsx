@@ -9,6 +9,7 @@ const Markers = (props) => {
     <Marker 
     position={place.geometry} 
     icon={IconLotation}
+    name={place.name}
     key={i} />
 
 ))
